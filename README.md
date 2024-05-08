@@ -42,7 +42,6 @@ root = tk.Tk()
 root.title("Konverter Bilangan")
 
 # Dropdown Menu pilihan konversi
-<p style="text-align: justify>
 Dropdown menu untuk pilihan konversi
         
     "1. Desimal ke Biner"<br>
@@ -56,4 +55,4 @@ Dropdown menu untuk pilihan konversi
     "9. Okta ke Heksadesimal"<br>
     "10. Heksadesimal ke Desimal"<br>
     "11. Heksadesimal ke Biner"<br>
-    "12. Heksadesimal ke Okta"<br></p>
+    "12. Heksadesimal ke Okta"<br>
