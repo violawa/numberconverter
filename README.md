@@ -44,15 +44,15 @@ root.title("Konverter Bilangan")
 # Dropdown Menu pilihan konversi
 Dropdown menu untuk pilihan konversi
         
-    "1. Desimal ke Biner"<br>
-    "2. Desimal ke Okta"<br>
-    "3. Desimal ke Heksadesimal"<br>
-    "4. Biner ke Desimal"<br>
-    "5. Biner ke Okta"<br>
-    "6. Biner ke Heksadesimal"<br>
-    "7. Okta ke Desimal"<br>
-    "8. Okta ke Biner"<br>
-    "9. Okta ke Heksadesimal"<br>
-    "10. Heksadesimal ke Desimal"<br>
-    "11. Heksadesimal ke Biner"<br>
-    "12. Heksadesimal ke Okta"<br>
+    "1. Desimal ke Biner"
+    "2. Desimal ke Okta"
+    "3. Desimal ke Heksadesimal"
+    "4. Biner ke Desimal"
+    "5. Biner ke Okta"
+    "6. Biner ke Heksadesimal"
+    "7. Okta ke Desimal"
+    "8. Okta ke Biner"
+    "9. Okta ke Heksadesimal"
+    "10. Heksadesimal ke Desimal"
+    "11. Heksadesimal ke Biner"
+    "12. Heksadesimal ke Okta"
