@@ -58,3 +58,6 @@ Dropdown menu untuk pilihan konversi
     "12. Heksadesimal ke Okta"
 # GUI
 <img src="https://github.com/violawa/numberconverter/blob/main/GUI.png">
+
+# LICENSE
+<a href="https://github.com/violawa/numberconverter/blob/main/LICENSE">
