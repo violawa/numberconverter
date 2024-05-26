@@ -60,4 +60,4 @@ Dropdown menu untuk pilihan konversi
 <img src="https://github.com/violawa/numberconverter/blob/main/GUI.png">
 
 # LICENSE
-<a href="https://github.com/violawa/numberconverter/blob/main/LICENSE">
+Check on License File <a href="https://github.com/violawa/numberconverter/blob/main/LICENSE">
