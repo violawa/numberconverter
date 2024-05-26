@@ -56,3 +56,5 @@ Dropdown menu untuk pilihan konversi
     "10. Heksadesimal ke Desimal"
     "11. Heksadesimal ke Biner"
     "12. Heksadesimal ke Okta"
+# GUI
+<img src="https://github.com/violawa/numberconverter/blob/main/GUI.png">
